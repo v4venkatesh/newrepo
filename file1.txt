@@ -1,1 +1,2 @@
+This file is in master but not in newproject
 What should I do in this I dont know.
